@@ -93,7 +93,7 @@ TOP은 사용자의 디지털 활동 시간을 객관적으로 측정하고 시�
 
 <img src="./assets/daily_target_focustime.png" width="96%">
 
-### 다양한 분석 위젯(데이터 연결 안 된 상태)
+### 다양한 분석 위젯
 - 생산성 향상을 위한 다양한 데이터 시각화 위젯 제공
 
 <img src="./assets/widget1.png" width="96%">
