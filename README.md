@@ -1,7 +1,7 @@
 # TOP(Time Optimization Platform)
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![License](https://img.shields.io/badge/license-SSAFY-green)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 ### "웹사이트와 프로그램 집중 시간 측정 서비스"
 
